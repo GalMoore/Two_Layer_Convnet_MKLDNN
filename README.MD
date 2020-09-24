@@ -1,4 +1,4 @@
-1. compile this project from /Release with:  
+1. compile this project from build_environment/Release with:  
 * make clean  
 * make all  
   
