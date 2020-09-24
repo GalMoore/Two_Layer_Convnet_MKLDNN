@@ -1,4 +1,4 @@
-1. Set makefile to your local version of DNNL 
+1. Set build_environment/Release/makefile to your local version of DNNL 
 
 2. compile this project from build_environment/Release with:  
 * make clean  
